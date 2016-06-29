@@ -1,0 +1,1 @@
+player createDiarySubject ["skelcredits",(localize "STR_A3MS_CREDITS")];

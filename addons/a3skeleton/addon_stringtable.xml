@@ -1,0 +1,37 @@
+	<Package name="A3 Mission Skeleton">
+		<Container name="Changelog, Credits, etc">
+			<Key ID="STR_A3MS_CHANGELOG">
+				<Original>Changelog</Original>
+				<English>Changelog</English>
+				<Czech>Changelog</Czech>
+				<French>Changelog</French>
+				<Spanish>Changelog</Spanish>
+				<Italian>Changelog</Italian>
+				<Polish>Changelog</Polish>
+				<Portuguese>Changelog</Portuguese>
+				<German>Changelog</German>
+			</Key>
+			<Key ID="STR_A3MS_ADDONS">
+				<Original>Addons</Original>
+				<English>Addons</English>
+				<Czech>Addons</Czech>
+				<French>Addons</French>
+				<Spanish>Addons</Spanish>
+				<Italian>Addons</Italian>
+				<Polish>Addons</Polish>
+				<Portuguese>Addons</Portuguese>
+				<German>Addons</German>
+			</Key>
+			<Key ID="STR_A3MS_CREDITS">
+				<Original>Credits</Original>
+				<English>Credits</English>
+				<Czech>Credits</Czech>
+				<French>Credits</French>
+				<Spanish>Credits</Spanish>
+				<Italian>Credits</Italian>
+				<Polish>Credits</Polish>
+				<Portuguese>Credits</Portuguese>
+				<German>Credits</German>
+			</Key>
+		</Container>
+	</Package>
