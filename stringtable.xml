@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma 3 Mission Skeleton by longbow">
+	<Package name="Mission skeleton">
+		<Container name="Mission load texts">
+			<Key ID="STR_MISSION_AUTHOR">
+				<Original>longbow</Original>
+				<English>longbow</English>
+				<Czech>longbow</Czech>
+				<French>longbow</French>
+				<Spanish>longbow</Spanish>
+				<Italian>longbow</Italian>
+				<Polish>longbow</Polish>
+				<Portuguese>longbow</Portuguese>
+				<Russian>longbow</Russian>
+				<German>longbow</German>
+			</Key>
+			<Key ID="STR_MISSION_ONLOADNAME">
+				<Original>Mission Skeleton</Original>
+				<English>Mission Skeleton</English>
+				<Czech>Mission Skeleton</Czech>
+				<French>Mission Skeleton</French>
+				<Spanish>Mission Skeleton</Spanish>
+				<Italian>Mission Skeleton</Italian>
+				<Polish>Mission Skeleton</Polish>
+				<Portuguese>Mission Skeleton</Portuguese>
+				<Russian>РљР°СЂРєР°СЃ РјРёСЃСЃРёРё</Russian>
+				<German>Mission Skeleton</German>
+			</Key>
+			<Key ID="STR_MISSION_ONLOADMISSION">
+				<Original>Version 1.0</Original>
+				<English>Version 1.0</English>
+				<Czech>Verze 1.0</Czech>
+				<French>Version 1.0</French>
+				<Spanish>Version 1.0</Spanish>
+				<Italian>Versione 1.0</Italian>
+				<Polish>Wersja 1.0</Polish>
+				<Portuguese>Versao 1.0</Portuguese>
+				<Russian>Р’РµСЂСЃРёСЏ 1.0</Russian>
+				<German>Version 1.0</German>
+			</Key>
+			<Key ID="STR_MISSION_OVERVIEWTEXT">
+				<Original>This is an overview text when unlocked mission is selected in mission navigation menu.</Original>
+				<English>This is an overview text when unlocked mission is selected in mission navigation menu.</English>
+				<Czech>This is an overview text when unlocked mission is selected in mission navigation menu.</Czech>
+				<French>This is an overview text when unlocked mission is selected in mission navigation menu.</French>
+				<Spanish>This is an overview text when unlocked mission is selected in mission navigation menu.</Spanish>
+				<Italian>This is an overview text when unlocked mission is selected in mission navigation menu.</Italian>
+				<Polish>This is an overview text when unlocked mission is selected in mission navigation menu.</Polish>
+				<Portuguese>This is an overview text when unlocked mission is selected in mission navigation menu.</Portuguese>
+				<Russian>Это текст описания, когда незаблокированная миссия, выбрана в меню выбора сценариев</Russian>
+				<German>This is an overview text when unlocked mission is selected in mission navigation menu.</German>
+			</Key>
+			<Key ID="STR_MISSION_OVERVIEWTEXT_LOCKED">
+				<Original>This is an overview text when locked mission is selected in mission navigation menu.</Original>
+				<English>This is an overview text when locked mission is selected in mission navigation menu.</English>
+				<Czech>This is an overview text when locked mission is selected in mission navigation menu.</Czech>
+				<French>This is an overview text when locked mission is selected in mission navigation menu.</French>
+				<Spanish>This is an overview text when locked mission is selected in mission navigation menu.</Spanish>
+				<Italian>This is an overview text when locked mission is selected in mission navigation menu.</Italian>
+				<Polish>This is an overview text when locked mission is selected in mission navigation menu.</Polish>
+				<Portuguese>This is an overview text when locked mission is selected in mission navigation menu.</Portuguese>
+				<Russian>Это текст описания, когда заблокированная миссия, выбрана в меню выбора сценариев</Russian>
+				<German>This is an overview text when locked mission is selected in mission navigation menu.</German>
+			</Key>
+			<Key ID="STR_MISSION_LOADSCREEN">
+				<Original>settings\loadscreen.paa</Original>
+				<English>settings\loadscreen.paa</English>
+				<Czech>settings\loadscreen.paa</Czech>
+				<French>settings\loadscreen.paa</French>
+				<Spanish>settings\loadscreen.paa</Spanish>
+				<Italian>settings\loadscreen.paa</Italian>
+				<Polish>settings\loadscreen.paa</Polish>
+				<Portuguese>settings\loadscreen.paa</Portuguese>
+				<Russian>settings\loadscreen.paa</Russian>
+				<German>settings\loadscreen.paa</German>
+			</Key>
+			<Key ID="STR_MISSION_OVERVIEWPICTURE">
+				<Original>settings\overview.paa</Original>
+				<English>settings\overview.paa</English>
+				<Czech>settings\overview.paa</Czech>
+				<French>settings\overview.paa</French>
+				<Spanish>settings\overview.paa</Spanish>
+				<Italian>settings\overview.paa</Italian>
+				<Polish>settings\overview.paa</Polish>
+				<Portuguese>settings\overview.paa</Portuguese>
+				<Russian>settings\overview.paa</Russian>
+				<German>settings\overview.paa</German>
+			</Key>
+		</Container>
+	</Package>
+</Project>

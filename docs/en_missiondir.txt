@@ -1,0 +1,36 @@
+Files and directory structure
+
+	The mission skeleton contains a number of files of directories to achieve
+the goal of easier mission development, even if number of files in mission
+root may look pretty big - this is intended to be a fixed set of files.
+
+\addons\				dir for 3rd party scripts
+	\sample\			dir for sample script package
+\doc\					dir for documentation
+\functions\				dir for user defined functions
+\images\				dir for custom images
+\music\					dir for music files
+\resources\				dir for resources (dialogs and rsctitles)
+\settings\				dir for files with mission settings
+	\game.hpp			gameplay settings
+	\gc.hpp				garbage collector's settings
+	\name.hpp			mission name,author, texts
+	\respawn.hpp		respawn settings
+	\system.hpp			system settings
+	\taskmgmt.hpp		task management settings
+	\loadscreen.paa		image, displayed on mission load
+	\overview.paa		image, displayed in image navigation menu
+\sounds\				dir for sound files
+\textures\				custom mission textures
+\defines.hpp			common constants
+\description.ext		mission description file
+\dialogs.hpp			file for including dialog classes
+\init.sqf				initialiation scripts, runs on every machine
+\initServer.sqf			init script, runs on server only
+\initPlayerLocal.sqf	init script, runs on client when he connected to server
+\initPlayerServer.sqf	init script, runs on server, when client connected
+\mission.sqf			mission file
+\readme*.txt			this documentation
+\stringtable.xml		localization file
+\version.txt			file with current version of this package
+\xtra_*.hpp				additional sections for description.ext pushed to separate files

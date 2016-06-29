@@ -1,0 +1,25 @@
+version=52;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=1;
+	class Camera
+	{
+		pos[]={14634.558,42.91,16759.525};
+		dir[]={-0.62302631,-0.502011,0.59985954};
+		up[]={-0.36163685,0.8648569,0.34818983};
+		aside[]={0.69358873,9.3627023e-008,0.72037733};
+	};
+};
+binarizationWanted=0;
+class AddonsMetaData
+{
+};
+randomSeed=1392126;
+class ScenarioData
+{
+	author="ilongbow";
+};
