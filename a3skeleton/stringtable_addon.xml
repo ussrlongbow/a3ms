@@ -9,6 +9,7 @@
 				<Italian>Changelog</Italian>
 				<Polish>Changelog</Polish>
 				<Portuguese>Changelog</Portuguese>
+				<Russian>История изменений</Russian>
 				<German>Changelog</German>
 			</Key>
 			<Key ID="STR_A3MS_ADDONS">
@@ -20,6 +21,7 @@
 				<Italian>Addons</Italian>
 				<Polish>Addons</Polish>
 				<Portuguese>Addons</Portuguese>
+				<Russian>Дополнения</Russian>
 				<German>Addons</German>
 			</Key>
 			<Key ID="STR_A3MS_CREDITS">
@@ -31,6 +33,7 @@
 				<Italian>Credits</Italian>
 				<Polish>Credits</Polish>
 				<Portuguese>Credits</Portuguese>
+				<Russian>Благодарности</Russian>
 				<German>Credits</German>
 			</Key>
 		</Container>

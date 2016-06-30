@@ -1,0 +1,1 @@
+player createDiaryRecord ["skeladdons",["Arma 3 Skeleton","Arma 3 Mission Skeleton <br />Version 1.0<br />Brought to you by longbow"]];

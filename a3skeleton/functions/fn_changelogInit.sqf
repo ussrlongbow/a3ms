@@ -2,7 +2,7 @@ private "_changelog";
 
 player createDiarySubject ["skelchangelog",(localize "STR_A3MS_CHANGELOG")];
 
-_changelog = call compile preprocessFileLineNumbers "changelog.sqf";
+_changelog = call compile preprocessFileLineNumbers "settings\changelog.sqf";
 
 {
 	private ["_title","_text"];
