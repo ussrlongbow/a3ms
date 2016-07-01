@@ -392,6 +392,9 @@ for /d %%D in (addons\*) do (
 		type a3skeleton\tag_function_footer.txt >> xtra_cfgfunctions.hpp
 	)
 
+:: Include user's functions
+type "a3skeleton\userfunctions.txt" >> xtra_cfgfunctions.hpp
+
 echo CfgFunctions class was updated
 echo.
 
