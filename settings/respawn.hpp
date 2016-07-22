@@ -22,7 +22,7 @@
 //    requires markers present on map with prefixes:
 //      respawn_west
 //      respawn_east
-//      respawn_guearilla
+//      respawn_guerilla
 //      respawn_civilian
 //    vehicles respawn markers are prefixed with respawn_vehicle_*
 // 4 - Respawn to group, if no AI - to seagull
