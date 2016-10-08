@@ -423,6 +423,8 @@ for /r "scripts" %%F in (initServer.s?f) do type "%%F" >> initServer.sqf
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: Copy version info
 copy a3skeleton\version.txt initPlayerLocal.sqf >NUL
+:: Copy generic template
+type  a3skeleton\initPlayerLocal.template >> initPlayerLocal.sqf
 :: Copy initPlayerLocal.sqf commands from addon
 for /r "addons" %%F in (initPlayerLocal.s?f) do type "%%F" >> initPlayerLocal.sqf
 :: Copy initPlayerLocal.sqf commands from mission's maker
