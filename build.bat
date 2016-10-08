@@ -27,7 +27,7 @@ setlocal enabledelayedexpansion
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: Arma 3 Mission Skeleton by longbow
-:: Version 1.1
+:: Version 1.3
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :: Setting encoding to UTF-8
