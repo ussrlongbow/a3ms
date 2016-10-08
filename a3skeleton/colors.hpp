@@ -1,7 +1,7 @@
 // Color names from W3Schools
 
 // Transparent color
-// for usage in configs or functions
+// for usage in configs
 // Example:
 // colorText[] = COLORT_Red(0.5);
 // will be replaced with:
